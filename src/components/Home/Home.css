@@ -1,0 +1,99 @@
+.banner {
+    padding-top: 4rem;    /* For nav-bar */
+}
+.banner h1{
+    line-height: 92px;
+    font-size: 84px;
+    font-family: "Source Sans Pro", Arial, sans-serif;
+    letter-spacing: -0.2px;
+    font-weight: 600;
+    color: #0558D2;
+
+}
+.banner p{
+    line-height: 28px;
+    font-size: 20px;
+    font-family: "Source Sans Pro", Arial, sans-serif;
+    letter-spacing: -0.1px;
+    margin-bottom: 25px;
+    margin-top: 24px;
+}
+#button-addon2{
+    background-color: #0558D2;
+}
+.input-group #button-addon2{
+    z-index: 0;
+}
+.our-services{
+    margin-top: 100px;
+}
+.services{
+    display: grid;
+    grid-template-columns: repeat(1,1fr);
+    gap: 1rem;
+    padding: 2rem 0;
+}
+.our-services span{
+    color: #0558D2;   
+}
+/* .service{
+    background-color: rgb(218, 218, 251);
+    border: 1px solid red;
+    display: grid;
+    grid-template-columns: minmax(max-content, 1fr) auto;
+    place-items: center;
+} */
+.service{
+    background-color: white;
+    box-shadow: 0 0 1rem lightgrey;
+    display: grid;
+    grid-template-columns: minmax(max-content, 1fr) auto;
+    place-items: center;
+    position: relative;
+}
+.service .text-wrapper {
+    display: grid;
+    place-items: center;
+    /* place-content: center; */
+}
+.service Button {
+    background-color: #31333b;
+    color: white;
+}
+.service img {
+    max-width: 1280px;
+}
+@media screen and (max-width: 576px) {
+    .service .text-wrapper {
+        position: absolute;
+        bottom: 2rem;
+        background-color: rgba(0 0 0 / 0.2);
+        color: white;
+        width: 50%;
+        height: 25%;
+        border-radius: 1rem;
+        display: grid;
+        place-items: center;
+        place-content: center;
+        backdrop-filter: blur(1rem);
+        -webkit-backdrop-filter: blur(1rem);
+    }
+    .service{
+        background-color: white;
+        box-shadow: 0 0 1rem lightgrey;
+        /* padding: 100px; */
+        display: grid;
+        grid-template-columns: minmax(max-content, 1fr);
+        place-items: center;
+        position: relative;
+    }
+    .service .img-wrapper {
+        order: -1;
+    }
+    .service img {
+        max-width: 576px;
+    }
+    .service Button {
+        background-color: white;
+    }
+}

@@ -1,0 +1,23 @@
+.my-container {
+    height: calc(100vh - 192px);
+    padding-top: 4rem;
+    display: grid;
+    place-content: center;
+}
+.iconbar {
+    width: max-content;
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(4, 1fr);
+    justify-content: start;
+    /* place-items: center; */
+}
+.iconbar i {
+    height: 3rem;
+    width: 3rem;
+}
+.iconbar i::before {
+    height: 100%;
+    display: grid;
+    place-items: center;
+}

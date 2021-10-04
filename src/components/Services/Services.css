@@ -1,0 +1,51 @@
+.services-container {
+    padding: 8rem 0;
+}
+.cards-container {
+    padding-top: 4rem;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+    /* background-color: lightgrey; */
+}
+.my-card {
+    border-radius: var(--rounded);
+    border: 1px solid lightgrey;
+    /* box-shadow: var(--shadow); */
+    padding: 1rem;
+}
+.my-card {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 1rem;
+}
+.my-card .text-wrapper {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    align-content: space-between;
+    grid-gap: 1rem;
+}
+.my-card-body {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 1rem;
+    text-align: center;
+}
+.my-card-body>* {
+    margin: 0;
+}
+/* Card button */
+.btn-wrapper {
+    margin: 0 16px;
+    display: grid;
+    grid-template-columns: repeat(1, minmax(min-content, auto));
+    grid-gap: 1rem;
+}
+
+.btn-wrapper button {
+    background-color: transparent;
+    padding: 6px 0;
+    /* border-radius: var(--rounded); */
+    border: 1px solid lightgrey;
+    /* box-shadow: var(--shadow); */
+}
