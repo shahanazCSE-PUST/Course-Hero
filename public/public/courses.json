@@ -9,31 +9,31 @@
     "tittle": "Web Application Development- Dot Net",
     "id": 2,
     "cost": "15,000",
-    "img": "http://www.onlinewebexpert.com/images/asp-img.png"
+    "img": "https://www.skillifytechnologies.com/wp-content/uploads/2019/07/microsoft-dot-net-training-1024x576.jpg"
   },
   {
-    "tittle": "Software Design & Architecture",
+    "tittle": "PHP with Laravel Framework",
     "id": 3,
-    "cost": "18,000",
-    "img": "https://appedology.com/uploads/images/2021/02/architectural-design-in-software-engineering_750x415.jpg"
+    "cost": "17,000",
+    "img": "https://cloudonhire.com/wp-content/uploads/2020/01/Laravel_Framework-copy.png"
   },
   {
-    "tittle": "Big Data, Data Analytics & Data Science",
+    "tittle": "Full-Stack Web Development with React Specialization",
     "id": 4,
-    "cost": "13,000",
-    "img": "https://miro.medium.com/max/1080/1*J_EXEmUkOcg-rgzJudUhZQ.png"
+    "cost": "17,000",
+    "img": "https://goldlevelmarketing.com/wp-content/uploads/2021/01/WEb-Host.jpeg"
   },
-    {
+   {
       "tittle": "Graphics & UI Design",
       "id": 5,
       "cost": "10,000",
       "img": "https://miro.medium.com/max/1170/1*MKAzGpha7usu9iVJj0avZQ.png"
     },
     {
-      "tittle": "PHP with Laravel Framework",
+      "tittle": "Software Design & Architecture",
       "id": 6,
-      "cost": "17,000",
-      "img": "https://cloudonhire.com/wp-content/uploads/2020/01/Laravel_Framework-copy.png"
+      "cost": "18,000",
+      "img": "https://appedology.com/uploads/images/2021/02/architectural-design-in-software-engineering_750x415.jpg"
     },
     {
       "tittle": "Build a Full Website using WordPress",
@@ -42,10 +42,16 @@
       "img": "https://www.hostpapa.ca/blog/wp-content/uploads/2013/05/Wordpress-Splash-Image.png"
     },
     {
-      "tittle": "Full-Stack Web Development with React Specialization",
+      "tittle": "React JS",
+      "id": 8,
+      "cost": "12,00",
+      "img": "https://www.cmarix.com/blog/wp-content/uploads/2020/12/16.png"
+    },
+    {
+      "tittle": "Big Data, Data Analytics & Data Science",
       "id": 9,
-      "cost": "17,000",
-      "img": "https://goldlevelmarketing.com/wp-content/uploads/2021/01/WEb-Host.jpeg"
+      "cost": "13,000",
+      "img": "https://miro.medium.com/max/1080/1*J_EXEmUkOcg-rgzJudUhZQ.png"
     },
     {
       "tittle": "HTML,CSS,and Javascript for Web Developers",
@@ -64,12 +70,7 @@
       "id": 12,
       "cost": "13,000",
       "img": "https://appindianews.com/wp-content/uploads/2019/05/Android-App-Development-Company.png"
-    },
-    {
-      "tittle": "React JS",
-      "id": 8,
-      "cost": "12,00",
-      "img": "https://www.cmarix.com/blog/wp-content/uploads/2020/12/16.png"
     }
+
    
 ]

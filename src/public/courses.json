@@ -3,25 +3,43 @@
     "tittle": "Web Design",
     "id": 1,
     "cost": "12,000",
-    "img": "https://github.com/shahanazCSE-PUST/image/blob/main/cover_insight.jpg"
+    "img": "https://www.kifadesign.it/wp-content/uploads/2021/07/cover_insight.jpg"
+  },
+  {
+    "tittle": "Web Design",
+    "id": 1,
+    "cost": "12,000",
+    "img": "https://www.kifadesign.it/wp-content/uploads/2021/07/cover_insight.jpg"
+  },
+  {
+    "tittle": "Web Design",
+    "id": 1,
+    "cost": "12,000",
+    "img": "https://www.kifadesign.it/wp-content/uploads/2021/07/cover_insight.jpg"
+  },
+  {
+    "tittle": "Web Design",
+    "id": 1,
+    "cost": "12,000",
+    "img": "https://www.kifadesign.it/wp-content/uploads/2021/07/cover_insight.jpg"
   },
   {
     "tittle": "Web Application Development- Dot Net",
     "id": 2,
     "cost": "15,000",
-    "img": "https://github.com/shahanazCSE-PUST/image/blob/main/microsoft-dot-net-training-1024x576.jpg"
+    "img": "http://www.onlinewebexpert.com/images/asp-img.png"
   },
   {
     "tittle": "Software Design & Architecture",
     "id": 3,
     "cost": "18,000",
-    "img": "https://github.com/shahanazCSE-PUST/image/blob/main/softwaredevelopment.jpg"
+    "img": "https://appedology.com/uploads/images/2021/02/architectural-design-in-software-engineering_750x415.jpg"
   },
   {
     "tittle": "Big Data, Data Analytics & Data Science",
     "id": 4,
     "cost": "13,000",
-    "img": "https://github.com/shahanazCSE-PUST/image/blob/main/Data_story_-_resized.jpg"
+    "img": "https://miro.medium.com/max/1080/1*J_EXEmUkOcg-rgzJudUhZQ.png"
   },
     {
       "tittle": "Graphics & UI Design",
@@ -68,7 +86,7 @@
     {
       "tittle": "React JS",
       "id": 8,
-      "cost": "12,000",
+      "cost": "12,00",
       "img": "https://www.cmarix.com/blog/wp-content/uploads/2020/12/16.png"
     }
    

@@ -1,0 +1,6 @@
+.my-link *:not(:hover) {
+    text-decoration: none;
+}
+.my-footer {
+    background-color: #35363a;
+}
